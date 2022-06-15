@@ -33,4 +33,4 @@ Tableau Storyboard
 Open - Source - Kaggle
 
 ## Data Profile
-[Fifa20 data profiling](Task-6)
+[Fifa20 data profiling]([Task-6](https://github.com/victormbogu1/FiFa20-Project/blob/main/Task-6.pdf))
