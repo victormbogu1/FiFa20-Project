@@ -27,7 +27,7 @@ Codes executed using jupyter notebooks by
 * Exporting of data
 
 ## Link to Tableau Public
-Tableau Storyboard
+[Tableau Storyboard](https://public.tableau.com/app/profile/victor4941/viz/Fifafinalproject/Fifa2020CaseStudy)
 
 ## Dataset
 [Open - Source - Kaggle](https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv)
