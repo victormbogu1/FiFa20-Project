@@ -5,12 +5,12 @@ This is an analysis of Fifa20 online gaming platform data. This project required
 ## Analysis Criteria
 I’ll be conducting the following analyses in this Achievement (note that not all results need to be included in the final dashboard):
 
-Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots and categorical plots)
-Geospatial analysis using a shapefile
-Regression analysis
-Cluster analysis
-Time-series analysis
-Analysis narrative and final results (presented in a dashboard)
+* Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots and categorical plots)
+* Geospatial analysis using a shapefile
+* Regression analysis
+* Cluster analysis
+* Time-series analysis
+* Final presentation on Tableau dashboad
 
 ## Tools:
 
