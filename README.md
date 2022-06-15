@@ -30,7 +30,7 @@ Codes executed using jupyter notebooks by
 Tableau Storyboard
 
 ## Dataset
-FIFa20 games
 Open - Source - Kaggle
 
 ## Data Profile
+[Fifa20 data profiling](Task-6)
