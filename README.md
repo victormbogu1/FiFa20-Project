@@ -30,7 +30,7 @@ Codes executed using jupyter notebooks by
 Tableau Storyboard
 
 ## Dataset
-Open - Source - Kaggle
-
+[Open - Source - Kaggle](https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv)
+ 
 ## Data Profile
 [Fifa20 data profiling](https://github.com/victormbogu1/FiFa20-Project/blob/main/Task-6.pdf)
