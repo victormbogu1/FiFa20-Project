@@ -17,7 +17,13 @@ Conducting the following analyses in this Achievement (note that not all results
 The following python libraries used for this project were:
 * Anaconda - library manager for Python
 * Pandas - for data analysis
-* Seaborn - for visualizing the data.
+* numpy - for data analysis
+* Seaborn - for visualizing the data
+* matplotlib - for visualizing the data
+* folium - for geospatial analysis
+* json - for geospatial analysis
+* sklearn - importing other modules
+* statsmodels.api as sm # Using .api imports the public access version of statsmodels, which is a library that handles 
 
 ## Executing code:
 
